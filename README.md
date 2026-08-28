@@ -84,7 +84,7 @@ The collection includes Semantic Scholar, OpenAlex, Crossref, arXiv, Zotero, and
 
 Open-source implementations make it possible to reproduce retrieval, RAG, scholarly-search, and literature-review workflows.
 
-- [GitHub Implementations](implementations/github-repositories.md)
+- [GitHub Implementations](implementations/implementations.md)
 
 ## Tutorials and Learning Resources
 
